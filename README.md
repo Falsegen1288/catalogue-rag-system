@@ -1,4 +1,4 @@
-\# 🗂️ Catalogue RAG System
+ 🗂️ Catalogue RAG System
 
 
 
@@ -6,27 +6,27 @@ A production-ready RAG (Retrieval-Augmented Generation) system for extracting an
 
 
 
-\## ✨ Features
+✨ Features
 
 
 
-\- \*\*Complete PDF extraction\*\* – Text, tables (with HTML), images, and layout metadata
+\- **Complete PDF extraction** – Text, tables (with HTML), images, and layout metadata
 
-\- \*\*Vector-based retrieval\*\* – ChromaDB with SentenceTransformers embeddings
+\- **vector-based retrieval** – ChromaDB with SentenceTransformers embeddings
 
-\- \*\*LLM-powered Q\&A\*\* – Groq (Llama 3.3 70B) for accurate, cited answers
+\- **LLM-powered Q&A** – Groq (Llama 3.3 70B) for accurate, cited answers
 
-\- \*\*Multi-catalogue support\*\* – Process multiple PDFs together
+\- **Multi-catalogue support** – Process multiple PDFs together
 
-\- \*\*Evaluation framework\*\* – ROUGE, BERTScore, and fact-based scoring
-
-
-
-\## 🚀 Quick Start
+\- **Evaluation framework** – ROUGE, BERTScore, and fact-based scoring
 
 
 
-\### 1. Clone \& Setup
+🚀 Quick Start
+
+
+
+ 1. Clone \& Setup
 
 
 
