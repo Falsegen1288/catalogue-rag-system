@@ -1,0 +1,33 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/
+
+# Data & logs
+data/vectordb/
+data/extracted_images/
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.onnx
+*.safetensors

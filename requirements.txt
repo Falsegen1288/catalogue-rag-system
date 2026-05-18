@@ -1,0 +1,31 @@
+# Core dependencies
+pymupdf>=1.24.0
+pdfplumber>=0.11.0
+camelot-py[cv]>=0.11.0
+unstructured[pdf]>=0.15.0
+unstructured-inference>=0.7.0
+
+# PDF processing
+pdf2image>=1.16.0
+Pillow>=10.0.0
+
+# Data & ML
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Vector DB & Embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+langchain>=0.1.0
+
+# LLM
+groq>=0.4.0
+
+# Evaluation
+rouge-score>=0.1.0
+bert-score>=0.3.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
