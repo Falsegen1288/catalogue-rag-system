@@ -1,4 +1,4 @@
-\ 🗂️ Catalogue RAG System
+ 🗂️ Catalogue RAG System
 
 
 
@@ -6,7 +6,7 @@ A production-ready RAG (Retrieval-Augmented Generation) system for extracting an
 
 
 
-\✨ Features
+✨ Features
 
 
 
@@ -22,11 +22,11 @@ A production-ready RAG (Retrieval-Augmented Generation) system for extracting an
 
 
 
-\🚀 Quick Start
+🚀 Quick Start
 
 
 
-\ 1. Clone \& Setup
+ 1. Clone \& Setup
 
 
 
